@@ -1,0 +1,1 @@
+# TDS IITM Generated Application\n\n## Description\nCreate a functional calculator web application with digits 0-9, basic operations (+, -, *, /), equals button, clear button, and a display screen. Make it visually appealing and responsive.\n\nThis application was automatically generated as part of the TDS IITM BS Degree project.
